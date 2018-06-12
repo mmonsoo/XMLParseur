@@ -1,0 +1,27 @@
+<!DOCTYPE armes SYSTEM "armes.dtd">
+<armes>
+	<arme>
+		<nom>Dague</nom>
+		<type>Perçant</type>
+		<degats>3</degats>
+		<prix>50</prix>
+	</arme>
+	<arme>
+		<nom>Epée courte</nom>
+		<type>Tranchant</type>
+		<degats>6</degats>
+		<prix>110</prix>
+	</arme>
+	<arme>
+		<nom>Lance</nom>
+		<type>Perçant</type>
+		<degats>8</degats>
+		<prix>150</prix>
+	</arme>
+	<arme>
+		<nom>Gourdin</nom>
+		<type>Contendant</type>
+		<degats>5</degats>
+		<prix>70</prix>
+	</arme>
+</armes>

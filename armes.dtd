@@ -1,0 +1,5 @@
+<!ELEMENT nom (#PCDATA) >
+<!ELEMENT degats (#PCDATA) >
+<!ELEMENT type (#PCDATA) >
+<!ELEMENT prix (#PCDATA) >
+<!ELEMENT arme (nom,type,degats,prix) >
